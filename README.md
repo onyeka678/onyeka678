@@ -1,6 +1,6 @@
-### Hi there! My name's Onyeka :pineapple::computer: 👋
+<center> <h2> Hi there! My name's Onyeka :pineapple::computer: 👋</h2> </center>
 
-Here are some ideas to get you started:
+<center> <h3> Here are some ideas to get you started: </h3> </center>
 
 - 🔭 I'm currently working on building my portfolio
 - 🌱 I’m currently learning React JS
