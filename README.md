@@ -3,8 +3,8 @@
 <center> <h3> Here's a little bit about me: </h3> </center>
 
 - 🔭 I'm currently working on building my portfolio
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Application Development on Android Studios
 - 😄 Pronouns: She/her
-- :high_brightness: My goal for 2021: Become a Front End Web Developer
+- :high_brightness: My goal for 2021: Become a SoftWare Engineer
 - :tada: Fun fact: I love to sing! :microphone:
 
