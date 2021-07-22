@@ -5,6 +5,6 @@
 - 🔭 I'm currently working on building my portfolio
 - 🌱 I’m currently learning Application Development on Android Studios
 - 😄 Pronouns: She/her
-- :high_brightness: My goal for 2021: Become a Software Engineer
+- :high_brightness: My goal for 2021: Further advance my Software Developing skills
 - :tada: Fun fact: I love to sing! :microphone:
 
